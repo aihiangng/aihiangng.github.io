@@ -527,7 +527,7 @@ ul {overflow: hidden;}
     width: 30px;
     font-size: 18px;
     line-height: 30px;
-    text-align: center;
+    text-align: left;
  
     opacity: 0;
      -moz-opacity: 0;
